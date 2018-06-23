@@ -22,13 +22,13 @@ namespace ExerprimentManager.SourceFiles {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// uNameTB 控件。
+        /// Account 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox uNameTB;
+        protected global::System.Web.UI.WebControls.TextBox Account;
         
         /// <summary>
         /// uPwdTB 控件。
@@ -40,12 +40,30 @@ namespace ExerprimentManager.SourceFiles {
         protected global::System.Web.UI.WebControls.TextBox uPwdTB;
         
         /// <summary>
-        /// DropDownList1 控件。
+        /// IDSelectList 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.DropDownList IDSelectList;
+        
+        /// <summary>
+        /// SubmitBtn 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button SubmitBtn;
+        
+        /// <summary>
+        /// ForgetBtn 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton ForgetBtn;
     }
 }
